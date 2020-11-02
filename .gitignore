@@ -2,4 +2,7 @@ node_modules/
 dist/
 .vscode/
 
+tmp/*
+!tmp/.gitkeep
+
 .env
